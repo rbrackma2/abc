@@ -37,11 +37,9 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Michael Rose
-  web: http://mademistakes.com
-  email: michael@mademistakes.com
-  twitter: mmistakes
-  bio: "Just another boring, tattooed, time traveling designer."
+  name: Nathalie Brackmann
+  web: http://www.brackmann.fr
+  email: avocat@brackmann.fr
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
