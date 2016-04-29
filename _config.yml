@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Nathalie 
+title: My website
 description: "A lightweight site starter for Jekyll"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: //www.brackmann.fr
+url: //mmistakes.github.io/skinny-bones-jekyll
 
 # Jekyll configuration
 
@@ -15,7 +15,7 @@ sass:
 permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
-highlighter: black
+highlighter: rouge
 gems:
   - jekyll-sitemap
   - jekyll-gist
@@ -37,8 +37,17 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Nathalie Brackmann
-  web: http://www.brackmann.fr
-  email: avocat@brackmann.fr
+  name: Michael Rose
+  web: http://mademistakes.com
+  email: michael@mademistakes.com
+  twitter: mmistakes
+  bio: "Just another boring, tattooed, time traveling designer."
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  google:
+    plus: +MichaelRoseDesign
+    ad-client: ca-pub-7328585512091257
+    ad-slot: 3049671934
+  disqus-shortname:
+
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
