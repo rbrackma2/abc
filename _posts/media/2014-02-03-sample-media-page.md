@@ -1,13 +1,13 @@
 ---
 layout: media
-title: "Media Post with Large Feature Image"
+title: "Article sur la ...."
 categories: media
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+excerpt: "TODO : short discription."
 ads: true
 share: false
 image:
-  feature: lock-1600x800.jpg
-  teaser: lock-400x250.jpg
+  feature: lawyer-logo-300x300.jpeg
+  teaser: lawyer-logo-300x300.jpeg
   credit: Michael Rose
   creditlink: http://mademistakes.com
 ---
