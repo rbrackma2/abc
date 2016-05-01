@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: lawyer-image-1345x594.jpg
+  feature: avocat-image.jpg
 ---
 
 <div class="tiles">
@@ -18,13 +18,19 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Contact</h2>
-  <p>T&eacute;l. mob. : <a href="tel:+33763501488">07 63 50 14 88</a></p>
-  <p>E-mail : <a href="mail:avocat@brackmann.fr">avocat@brackmann.fr</a></p>
-  
-  <img src="http://maps.googleapis.com/maps/api/staticmap?{% for location in page.locations %}{% if forloop.first %}center={{location}}&markers=color:blue%7C{{location}}{% else %}&markers=color:blue%7C{{location}}{% endif %}{% endfor %}&zoom={% if page.zoom %}{{page.zoom}}{% else %}13{% endif %}&size=300x200&scale=2&sensor=false&visual_refresh=true" alt="">
-  
-</div><!-- /.tile -->
-
+  <h2 class="post-title">Contact</h2> 
+      	<div class="span4">
+    		<address>
+    			<strong>Cabinet Nathalie Brackmann</strong><br>
+    			78 Avenue Pierre Semard<br>
+    			06130 Grasse<br>
+    			France<br>
+    			<abbr title="T&eacute;l.">T:</abbr> 01234 567 890
+			<p>T : <a href="tel:+33763501488">07 63 50 14 88</a></p>
+                        <p>E-mail : <a href="mail:avocat@brackmann.fr">avocat@brackmann.fr</a></p>
+    		</address>
+		 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.5997742816257!2d6.927673315144!3d43.65649457912123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cc28ad3c420e99%3A0x51f3334f407990fd!2s78+Avenue+Pierre+Semard%2C+06130+Grasse!5e0!3m2!1sen!2sfr!4v1462133512410" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+    	</div>
+    </div>
 
 </div><!-- /.tiles -->
