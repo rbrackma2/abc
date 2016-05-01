@@ -1,30 +1,23 @@
 # Site navigation links
 
-# le titre ne doit pas etre trop long
-
 - title: Cabinet
   url: /cabinet/
-  excerpt: "."
   image: 400x250.gif
 
 - title: Comp&eacute;tences
-  url: /articles/
-  excerpt: 
+  url: /competences/
   image: 400x250.gif
 
 - title: Particuliers
-  url: /media/
-  excerpt: 
+  url: /particuliers/
   image: 400x250.gif
 
 - title: Entreprises
-  url: /about/
-  excerpt: 
+  url: /entreprises/
   image: 400x250.gif
 
 - title: Contact
   url: /contact/
-  excerpt: 
   image: 400x250.gif
 
 

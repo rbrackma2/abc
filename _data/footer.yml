@@ -3,11 +3,24 @@
 - title: Home
   url: /
 
-- title: Getting Started
+- title: Cabinet
   url: /cabinet/
 
-- title: About
-  url: /about/
+- title: Comp&eacute;tences
+  url: /competences/
 
+- title: Particuliers
+  url: /particuliers/
+
+- title: Entreprises
+  url: /entreprises/
+
+- title: Contact
+  url: /contact/
+    
 - title: Terms
   url: /terms/
+
+
+
+  
