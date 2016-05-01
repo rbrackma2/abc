@@ -5,8 +5,7 @@ description: "Avocat a Grasse"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: fr_FR
-url: //10.64.109.18:4000
-#rbrackma.github.io/abc
+url: //rbrackma.github.io/abc
 
 # Jekyll configuration
 
