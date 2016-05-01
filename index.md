@@ -19,7 +19,8 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Contact</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+  <p>T&eacute;l. mob. : <a href="tel:+33763501488">07 63 50 14 88</a></p>
+  <p>E-mail : <a href="mail:avocat@brackmann.fr">avocat@brackmann.fr</a></p>
 </div><!-- /.tile -->
 
 
