@@ -1,21 +1,30 @@
 # Site navigation links
 
-- title: Cabinet Nathalie Brackmann
+# le titre ne doit pas etre trop long
+
+- title: Cabinet
   url: /getting-started/
   excerpt: "."
   image: 400x250.gif
 
-- title: Droit du travail
+- title: Comp&eacute;tences
   url: /articles/
-  excerpt: "Examples of long form posts."
+  excerpt: 
   image: 400x250.gif
 
-- title: Les locaux
+- title: Particuliers
   url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  excerpt: 
   image: 400x250.gif
 
-- title: About
+- title: Entreprises
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+  excerpt: 
   image: 400x250.gif
+
+- title: Contact
+  url: /contact/
+  excerpt: 
+  image: 400x250.gif
+
+
