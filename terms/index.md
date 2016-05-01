@@ -15,8 +15,10 @@ Responsable de la publication :
 
 ```
 Nathalie Brackmann Avocat
-78 av. Pierre Sémard, 06130 Grasse
-Tél. 07 63 50 14 88
+78 av. Pierre Sémard
+06130 Grasse
+France
+Tél. 00 33 7 63 50 14 88
 avocat@brackmann.fr
 Siren : 502 664 394
 ```
