@@ -24,10 +24,8 @@ R&eacute;sidence Les Palmiers
 
 06130 Grasse
 
-T&eacute;l. 07 63 50 14 88
-
-Email : avocat@brackmann.fr
-
+<p>T&eacute;l. mob. : <a href="tel:+33763501488">07 63 50 14 88</a></p>
+<p>E-mail : <a href="mail:avocat@brackmann.fr">avocat@brackmann.fr</a></p>
 
 La Cabinet est situ&eacute; &agrave; quelques m&egrave;tres seulement du Palais de justice.
 Plusieurs parkings sont situ&eacute;s &agrave; proximit&eacute; du Cabinet.  
