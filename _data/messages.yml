@@ -6,7 +6,7 @@ locales:
   # -------------------
   en: &DEFAULT_EN
     overview: "Overview"
-    toc: "Table of Contents"
+    toc: "Site map"
     written_by: "Written by"
     updated: "Updated"
     share: "Share on"
@@ -27,7 +27,9 @@ locales:
   de_DE:
     <<: *DEFAULT_DE     # use German translation for de_DE
 
-  # French translation (TODO)
+  # French translation
   # -------------------
   fr_FR:
     <<: *DEFAULT_EN      # load English values as default
+    overview: "Sommaire"
+    toc: "Plan du site"

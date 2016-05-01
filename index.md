@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: avocat-image.jpg
+  feature: lawyer-image-1345x594.jpg
 ---
 
 <div class="tiles">
