@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Cabinet"
+title: "Comp&eacute;tences"
 date: 2014-05-30T11:39:03-04:00
 modified:
-excerpt: 
+excerpt:
 tags: []
 image:
   feature:
@@ -23,7 +23,7 @@ Le Cabinet a pour activit&eacute; dominante le droit social couvrant aussi bien 
 -        Transactions
 -        Gestion des institutions repr&eacute;sentatives du personnel (DP, CE, CHSCT)
 -        Accords collectifs
--        Epargne salariale (int&eacute;ressement, participation)
+-        Epargne salariale (int&eacute;ressement, participation, etc.)
 -        Contr&ocirc;le URSSAF
 -        Visites de l'inspecteur du travail
 -        Echanges avec le m&eacute;decin du travail, avec l'URSSAF ou avec l'inspecteur du travail.
@@ -31,6 +31,4 @@ Le Cabinet a pour activit&eacute; dominante le droit social couvrant aussi bien 
 Les principales situations dans lesquelles le Cabinet est amen&eacute; &agrave; intervenir :
 
 -        Aupr&egrave;s des particuliers
--        Aupr&egrave;s de entreprises
-
-
+-        Aupr&egrave;s des entreprises
