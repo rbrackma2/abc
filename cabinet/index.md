@@ -8,7 +8,7 @@ tags: []
 image:
   feature:
   teaser:
-  thumb:
+  thumb: http://image.shutterstock.com/display_pic_with_logo/1496012/367198160/stock-photo-attorney-is-examining-business-documentation-367198160.jpg
 share: false
 ---
 
