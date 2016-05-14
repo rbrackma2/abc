@@ -7,7 +7,6 @@ excerpt:
 tags: []
 image:
   feature:
-  teaser:
 ---
 
 Le Cabinet a pour activit&eacute; dominante le droit social couvrant aussi bien les relations individuelles que les relations collectives du travail.

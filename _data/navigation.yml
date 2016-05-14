@@ -2,22 +2,25 @@
 
 - title: Cabinet
   url: /cabinet/
-  image: 400x250.gif
+  image: nathalie-brackmann-210x147.jpg
+  imagealt: Cabinet avocat Nathalie Brackmann droit de travail Grasse PACA
 
 - title: Comp&eacute;tences
   url: /competences/
-  image: 400x250.gif
-
-- title: Particuliers
-  url: /particuliers/
-  image: 400x250.gif
+  image: competences-cabinet-brackmann.jpg
+  imagealt: Competences avocat Nathalie Brackmann droit de travail Grasse PACA
 
 - title: Entreprises
   url: /entreprises/
-  image: 400x250.gif
+  image: clients-entreprises.jpg
+  imagealt: Client entreprises cabinet avocat Nathalie Brackmann Grasse PACA
+
+- title: Particuliers
+  url: /particuliers/
+  image: clients-particuliers.jpg
+  imagealt: Client particulier cabinet avocat Nathalie Brackmann Grasse PACA
 
 - title: Contact
   url: /contact/
-  image: 400x250.gif
-
-
+  image: contact.jpg
+  imagealt: Contacter cabinet avocat Nathalie Brackmann Grasse PACA
