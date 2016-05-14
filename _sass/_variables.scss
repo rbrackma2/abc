@@ -23,6 +23,9 @@ $border-radius               	: 3px;
 
 $white                        : #fff;
 $black                        : #000;
+/*$brackmanncolor               : #902648;
+$brackmanncolor               : #6A0626;*/
+$brackmanncolor               : #51041C;
 
 $body-color                  	: #ebebeb;
 
@@ -81,7 +84,7 @@ $form-font-size              	: $doc-font-size;
    ========================================================================== */
 
 $sliding-menu-border-color	 	 : $black;
-$sliding-menu-background 		   : $black;
+$sliding-menu-background 		   : $brackmanncolor;
 $sliding-menu-color 	 		     : $white;
 $sliding-menu-background-hover : $black;
 $sliding-menu-color-hover	 	   : $white;
