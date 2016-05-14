@@ -6,14 +6,14 @@
 - title: Cabinet
   url: /cabinet/
 
-- title: Comp&eacute;tences
-  url: /competences/
-
-- title: Particuliers
-  url: /particuliers/
+- title: Activit&eacute; dominante
+  url: /activite-dominante/
 
 - title: Entreprises
   url: /entreprises/
+
+- title: Particuliers
+  url: /particuliers/
 
 - title: Contact
   url: /contact/

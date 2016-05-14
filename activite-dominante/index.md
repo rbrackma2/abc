@@ -1,7 +1,6 @@
 ---
 layout: archive
-title: "Comp&eacute;tences"
-date: 2014-05-30T11:39:03-04:00
+title: "Activit&eacute; dominante"
 modified:
 excerpt:
 tags: []
