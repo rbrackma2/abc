@@ -9,10 +9,10 @@
 .slide {
     transform: translateX(-100%);
     @include media($medium) {
-      transform: translateX(em(-600));
+      transform: translateX(em(-450));
     }
     @include media($large) {
-      transform: translateX(em(-900));
+      transform: translateX(em(-650));
     }
   }
 
@@ -44,10 +44,10 @@
     background: $brackmanncolor;
     transform: translateX(0); /* don't slide close button on small screens only */
     @include media($medium) {
-      transform: translateX(em(-600)); /* reset slide position */
+      transform: translateX(em(-450)); /* reset slide position */
     }
     @include media($large) {
-      transform: translateX(em(-900)); /* reset slide position */
+      transform: translateX(em(-565)); /* reset slide position : NBM --> mainly of the x button */
     }
   }
 }
@@ -66,10 +66,10 @@
   text-align: left;
   @include size(100% 100%);
   @include media($small) {
-    width: em(600);
+    width: em(450);
   }
   @include media($large) {
-    width: em(900);
+    width: em(650);
   }
   transform: translateX(100%);
   transition: $sliding-menu-animation;

@@ -6,7 +6,7 @@ modified: 2016-05-01
 excerpt:
 tags: []
 image:
-  feature: competences-cabinet-brackmann.jpg 
+  feature: nb-logo-400x250.jpg 
   teaser: 
   thumb:
 share: false

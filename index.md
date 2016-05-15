@@ -5,6 +5,8 @@ image:
   feature: lawyer-image-1345x594.jpg
 ---
 
+<meta name="keywords" content="{{ site.tags | join: ', ' }}">
+
 <p>Situ&eacute; en face du Palais de justice de Grasse, le Cabinet a pour activit&eacute; dominante le <strong>droit du travail </strong>et le droit de la <strong>s&eacute;curit&eacute; sociale</strong>. Il intervient &eacute;galement en <strong>droit de la famille</strong>.</p>
 <p>Le Cabinet conseille, assiste ou repr&eacute;sente les <strong>entreprises</strong> et les <strong>particuliers</strong> devant les juridictions de <strong>premi&egrave;re instance</strong> et d&rsquo;<strong>appel, </strong>sur tout le<strong> territoire national</strong>.</p>
 <p>En particulier, Nathalie Brackmann a une solide exp&eacute;rience du<strong> conseil aux entreprises </strong>en raison de sa pratique du droit social durant de nombreuses ann&eacute;es au sein du barreau de Paris, dans des cabinets d&rsquo;affaires de premier plan.</p>
@@ -12,12 +14,11 @@ image:
 
 
 <div class="tile">
-  <h2 class="post-title">Coordonn&eacute;es</h2>
       	<div class="span4">
     		<address>
     		<br>
-          <strong>Cabinet d'Avocats</strong><br>
           <strong>Me Nathalie Brackmann</strong><br>
+          <strong>Cabinet d'Avocats</strong><br>
     			78 Avenue Pierre Semard<br>
     			06130 Grasse<br>
     			France<br>

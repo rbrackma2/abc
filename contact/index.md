@@ -19,12 +19,11 @@ Coordonn&eacute;es du Cabinet :
 **(R&eacute;ception sur rendez-vous uniquement)**
 
 <div class="tile">
-  <h2 class="post-title">Coordonn&eacute;es</h2>
       	<div>
     		<address>
     		<br>
-          <strong>Cabinet d'Avocats</strong><br>
           <strong>Me Nathalie Brackmann</strong><br>
+          <strong>Cabinet d'Avocats</strong><br>
     			78 Avenue Pierre Semard<br>
     			06130 Grasse<br>
     			France<br>
@@ -35,11 +34,9 @@ Coordonn&eacute;es du Cabinet :
     	</div>
 </div>
 
-La Cabinet est &agrave; seulement 10 mn &agrave; pied de la gare SNCF.
+La Cabinet est situ&eacute; en face du Palais de justice et &agrave; seulement 10 mn &agrave; pied de la gare SNCF.
 
-La Cabinet est situ&eacute; &agrave; quelques m&egrave;tres seulement du Palais de justice.
-
-Plusieurs parkings sont situ&eacute;s &agrave; proximit&eacute; du Cabinet.
+Plusieurs parkings sont &agrave; proximit&eacute; du Cabinet.
 
 
 <div class="container">
