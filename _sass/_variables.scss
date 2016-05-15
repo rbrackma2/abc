@@ -24,8 +24,8 @@ $border-radius               	: 3px;
 $white                        : #fff;
 $black                        : #000;
 /*$brackmanncolor               : #902648;
-$brackmanncolor               : #6A0626;*/
-$brackmanncolor               : #51041C;
+$brackmanncolor               : #51041C; */
+$brackmanncolor               : #6A0626;
 
 $body-color                  	: #ebebeb;
 
@@ -83,8 +83,8 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	 : $black;
-$sliding-menu-background 		   : $brackmanncolor;
+$sliding-menu-border-color	 	 : $brackmanncolor;
+$sliding-menu-background 		   : $white;
 $sliding-menu-color 	 		     : $white;
 $sliding-menu-background-hover : $black;
 $sliding-menu-color-hover	 	   : $white;
@@ -110,4 +110,5 @@ $badge-font-color              : $white;
    Masthead variables
    ========================================================================== */
 
-$masthead-height: $button-size * 2;
+/* NBM : increase space on top  */ 
+$masthead-height: $button-size * 1;

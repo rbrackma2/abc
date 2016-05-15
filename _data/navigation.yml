@@ -1,13 +1,18 @@
 # Site navigation links
 
+- title: Accueil
+  url: /
+  image: nathalie-brackmann-210x147.jpg
+  imagealt: Accueil Maitre Nathalie Brackmann droit de travail Grasse PACA
+
 - title: Cabinet
   url: /cabinet/
-  image: nathalie-brackmann-210x147.jpg
+  image: competences-cabinet-brackmann.jpg
   imagealt: Cabinet avocat Nathalie Brackmann droit de travail Grasse PACA
 
-- title: Activit&eacute;
+- title: Activit&eacute; dominante
   url: /activite-dominante/
-  image: competences-cabinet-brackmann.jpg
+  image: competences-cabinet-brackmann2.jpg
   imagealt: Activit&eacute; dominante avocat Nathalie Brackmann droit de travail Grasse PACA
 
 - title: Entreprises

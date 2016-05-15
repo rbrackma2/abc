@@ -1,11 +1,11 @@
 ---
-layout: archive
+layout: tab
 title: "Contact"
 date: 2016-05-01T09:44:20-04:00
 modified: 2016-05-01T14:56:44-04:00
 excerpt:
 image:
-  feature: 
+  feature: contact.jpg
   teaser: 
   thumb:
 share: false
@@ -15,11 +15,12 @@ ads: false
 N'h&eacute;sitez pas &agrave; laisser un message pour convenir d'un rendez-vous, vous renseigner sur les honoraires pratiqu&eacute;s ou toute autre question pratique sur le Cabinet. Vous serez rappel&eacute; dans la journ&eacute;e.
 
 Coordonn&eacute;es du Cabinet :
+
 **(R&eacute;ception sur rendez-vous uniquement)**
 
 <div class="tile">
   <h2 class="post-title">Coordonn&eacute;es</h2>
-      	<div class="span4">
+      	<div>
     		<address>
     		<br>
           <strong>Cabinet d'Avocats</strong><br>
@@ -32,11 +33,14 @@ Coordonn&eacute;es du Cabinet :
     		</address>
 		 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.5997742816257!2d6.927673315144!3d43.65649457912123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cc28ad3c420e99%3A0x51f3334f407990fd!2s78+Avenue+Pierre+Semard%2C+06130+Grasse!5e0!3m2!1sen!2sfr!4v1462133512410" width="300" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
     	</div>
-    </div>
+</div>
+
+La Cabinet est &agrave; seulement 10 mn &agrave; pied de la gare SNCF.
 
 La Cabinet est situ&eacute; &agrave; quelques m&egrave;tres seulement du Palais de justice.
 
 Plusieurs parkings sont situ&eacute;s &agrave; proximit&eacute; du Cabinet.
+
 
 <div class="container">
 	<div class="row">
@@ -90,5 +94,5 @@ Plusieurs parkings sont situ&eacute;s &agrave; proximit&eacute; du Cabinet.
           </form>
         </div>
       </div>
-	</div>
+  </div>
 </div>

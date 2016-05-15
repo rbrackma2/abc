@@ -6,7 +6,7 @@ locales:
   # -------------------
   en: &DEFAULT_EN
     overview: "Overview"
-    toc: "Site map"
+    toc: "Lawyer in Grasse"
     written_by: "Written by"
     updated: "Updated"
     share: "Share on"
@@ -20,7 +20,7 @@ locales:
   de: &DEFAULT_DE
     <<: *DEFAULT_EN     # load English values as default
     overview: "&Uuml;bersicht"
-    toc: "Inhalt"
+    toc: "Anwalt in Grasse - Frankreich"
     written_by: "Verfasst von"
     updated: "Zuletzt aktualisiert:"
     share: ""
@@ -32,4 +32,4 @@ locales:
   fr_FR:
     <<: *DEFAULT_EN      # load English values as default
     overview: "Sommaire"
-    toc: "Plan du site"
+    toc: "Avocat &agrave; Grasse"

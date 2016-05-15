@@ -4,8 +4,10 @@ title: www.brackmann.fr
 description: "Avocat au barreau de Grasse"
 logo: lawyer-logo-120x120.jpg
 locale: fr_FR
-url: //rbrackma.github.io/abc
-#url: //10.64.109.18:4000
+#url: //rbrackma.github.io/abc
+url: //10.64.109.18:4000
+
+tag : Avocat barreau de Grasse Nathalie Brackmann droit travail
 
 # Jekyll configuration
 
