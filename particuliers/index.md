@@ -10,6 +10,8 @@ image:
   teaser:
 ---
 
+Le Cabinet est notamment amen&eacute; &agrave; intervenir dans les situations suivantes:
+
 <p>Afin de pr&eacute;server vos int&eacute;r&ecirc;ts, vous souhaitez obtenir des conseils sur :</p>
 <ul>
 <li>un contrat de travail qui vous est propos&eacute;,</li>

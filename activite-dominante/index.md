@@ -8,7 +8,7 @@ image:
   feature: competences-cabinet-brackmann.jpg
 ---
 
-Le Cabinet a pour activit&eacute; dominante le droit social, couvrant aussi bien les relations individuelles que les relations collectives du travail.
+Le Cabinet a pour activit&eacute; dominante le droit social, incluant les relations individuelles et collectives du travail ainsi que le droit de la s&eacutecurit&eacute sociale.
 
 Les principaux domaines d&rsquo;intervention du Cabinet :
 

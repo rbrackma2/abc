@@ -13,7 +13,7 @@ ads: false
 ---
 
 <p>De par ses exp&eacute;riences acquises au sein de grands groupes et cabinets d'affaires, Nathalie Brackmann a conscience des exigences du conseil aux entreprises et de l'importance d'&eacute;tablir une relation de confiance avec ses diff&eacute;rents interlocuteurs.</p>
-<p>Le Cabinet offre ainsi un conseil sur mesure, adapt&eacute; &agrave; la qualit&eacute; de ses interlocuteurs (Pr&eacute;sident, Directeur g&eacute;n&eacute;ral, Directeur administratif et financier, Directeur ou responsable des ressources humaines, Directeur des relations sociales, etc.), &agrave; leur secteur d'activit&eacute; (informatique, bancaire, service &agrave; la personne, b&acirc;timent, associatif, etc.) et &agrave; la dimension de leur entreprise (TPE, PME ou soci&eacute;t&eacute;s appartenant &agrave; de plus grands groupes).</p>
+<p>Le Cabinet offre ainsi un conseil sur mesure, adapt&eacute; &agrave; la qualit&eacute; de ses interlocuteurs (Pr&eacute;sident, Directeur g&eacute;n&eacute;ral, Directeur administratif et financier, Directeur ou responsable des ressources humaines, Directeur des relations sociales, etc.), &agrave; leur secteur d'activit&eacute; (nouvelles technologies, finance, service &agrave; la personne, b&acirc;timent, associatif, etc.) et &agrave; la dimension de leur entreprise (TPE, PME ou soci&eacute;t&eacute;s appartenant &agrave; de plus grands groupes).</p>
 <p>Le Cabinet est notamment amen&eacute; &agrave; intervenir dans les situations suivantes:</p>
 <p>Afin de pr&eacute;server vos int&eacute;r&ecirc;ts, vous souhaitez :</p>
 <ul>
