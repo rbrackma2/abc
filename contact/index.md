@@ -5,7 +5,7 @@ date: 2016-05-01T09:44:20-04:00
 modified: 2016-05-01T14:56:44-04:00
 excerpt:
 image:
-  feature: contact.jpg
+  feature: brackmann-contact-1920x850.jpg
   teaser: 
   thumb:
 share: false

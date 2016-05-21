@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: lawyer-image-1345x594.jpg
+  feature: brackmann-homepage-1920x850.jpg
 ---
 
 <meta name="keywords" content="{{ site.tags | join: ', ' }}">

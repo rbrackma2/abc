@@ -6,7 +6,7 @@ modified:
 excerpt:
 tags: []
 image:
-  feature: clients-particuliers.jpg
+  feature: brackmann-particuliers-1920x850.jpg
   teaser:
 ---
 
