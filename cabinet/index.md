@@ -6,7 +6,7 @@ modified: 2016-05-01
 excerpt:
 tags: []
 image:
-  feature: brackmann-133x145.jpg
+  feature:
   teaser: 
   thumb:
 share: false

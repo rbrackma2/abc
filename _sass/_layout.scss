@@ -226,36 +226,47 @@
 		}
 	}
 }
-// page lead
+// page lead NBM
+.page-lead-home {
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	text-align: center;
+	color: $white;
+	@include media($medium) {
+		background-size: 100%;
+	}
+}
+
 .page-lead {
 	background-position: center top;
 	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background-attachment: scroll;
 	text-align: center;
 	color: $white;
-	@include media($large) {
-		background-size: cover;
+	@include media($medium) {
+		background-size: 40%;
 	}
 }
-.page-lead-content {
+.page-lead-content-home {
 	padding: 1em;
 	@include media($medium) {
 		padding: 2em;
 	}
 	@include media($large) {
-		padding: 3em;
+		padding: 9em;
 	}
 	h1 {
-		@include font-size(48);
+		@include font-size(28);
 		@include media($medium) {
-			@include font-size(60);
+			@include font-size(40);
 		}
 		@include media($large) {
-			@include font-size(72);
+			@include font-size(42);
 		}
 	}
 	h2 {
-		@include font-size(20);
+		@include font-size(18);
 		@include media($medium) {
 			@include font-size(24);
 		}
@@ -264,6 +275,18 @@
 		}
 	}
 }
+
+.page-lead-content {
+	padding: 1em;
+	@include media($medium) {
+		padding: 6em;
+	}
+	@include media($large) {
+		padding: 9em;
+	}
+	
+}
+
 // page header
 .page-feature {
 	@include fill-parent;
