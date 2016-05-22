@@ -1,6 +1,6 @@
 ---
 layout: tab
-title: "Le Cabinet"
+title: ""
 date: 2014-06-25T13:57:25-04:00
 modified: 2016-05-01
 excerpt:
@@ -15,6 +15,8 @@ share: false
 
 {% include toc.html %}
 
+<br>
+<h1>Le Cabinet</h1>
 
 Situ&eacute; en face du Palais de justice de Grasse, le Cabinet a pour activit&eacute; dominante le droit social incluant le **droit du travail** et le droit de la **s&eacute;curit&eacute; sociale**.
 
