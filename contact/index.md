@@ -36,7 +36,7 @@ Vous serez recontact&eacute; dans la journ&eacute;e.
     	</div>
 	
 	Le Cabinet est situ&eacute; en face du Palais de justice et &agrave; seulement 10 mn &agrave; pied de la gare SNCF.<br><br>
-	Plusieurs parkings sont &agrave; proximit&eacute; du Cabinet.<br><br>
+	Plusieurs parkings sont &agrave; proximit&eacute; du Cabinet (parking Roure, parking de la gare SNCF, etc.).<br><br>
 	
 	<div class="container">
 	<div class="row">
