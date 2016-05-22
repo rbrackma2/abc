@@ -12,16 +12,18 @@ share: false
 ads: false
 ---
 
-N'h&eacute;sitez pas &agrave; laisser un message pour convenir d'un rendez-vous, vous renseigner sur les honoraires pratiqu&eacute;s ou toute autre question pratique sur le Cabinet. Vous serez rappel&eacute; dans la journ&eacute;e.
+N'h&eacute;sitez pas &agrave; nous &eacute;crire (<a href="mailto:avocat@brackmann.fr">avocat@brackmann.fr</a>) ou &agrave; nous appeler (<a href="tel:+33763501488">07 63 50 14 88</a>) pour :
 
-Coordonn&eacute;es du Cabinet :
+- convenir d'un rendez-vous,
+- vous renseigner sur les honoraires du Cabinet,
+- toute autre question pratique sur le Cabinet.
 
-**(R&eacute;ception sur rendez-vous uniquement)**
+Vous serez recontact&eacute; dans la journ&eacute;e.
 
+**Coordonn&eacute;es du Cabinet** (r&eacute;ception sur rendez-vous) :
 <div class="tile">
       	<div>
     		<address>
-    		<br>
           <strong>Me Nathalie Brackmann</strong><br>
           <strong>Cabinet d'Avocats</strong><br>
     			78 Avenue Pierre Semard<br>
@@ -30,16 +32,13 @@ Coordonn&eacute;es du Cabinet :
 			    T&eacute;l. : <a href="tel:+33763501488">07 63 50 14 88</a><br>
           E-mail : <a href="mailto:avocat@brackmann.fr">avocat@brackmann.fr</a>
     		</address>
-		 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.5997742816257!2d6.927673315144!3d43.65649457912123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cc28ad3c420e99%3A0x51f3334f407990fd!2s78+Avenue+Pierre+Semard%2C+06130+Grasse!5e0!3m2!1sen!2sfr!4v1462133512410" width="300" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+		 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.5997742816257!2d6.927673315144!3d43.65649457912123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cc28ad3c420e99%3A0x51f3334f407990fd!2s78+Avenue+Pierre+Semard%2C+06130+Grasse!5e0!3m2!1sen!2sfr!4v1462133512410" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
     	</div>
-</div>
-
-La Cabinet est situ&eacute; en face du Palais de justice et &agrave; seulement 10 mn &agrave; pied de la gare SNCF.
-
-Plusieurs parkings sont &agrave; proximit&eacute; du Cabinet.
-
-
-<div class="container">
+	
+	Le Cabinet est situ&eacute; en face du Palais de justice et &agrave; seulement 10 mn &agrave; pied de la gare SNCF.<br><br>
+	Plusieurs parkings sont &agrave; proximit&eacute; du Cabinet.<br><br>
+	
+	<div class="container">
 	<div class="row">
       <div class="col-md-6 col-md-offset-3">
         <div class="well well-sm">
@@ -79,7 +78,7 @@ Plusieurs parkings sont &agrave; proximit&eacute; du Cabinet.
               </div>
             </div>
 	    <div class="form-group">
-            <p><input type="checkbox" required name="terms">J'accepte que ce message soit envoy&eacute; par le service formspree.io. N'envoyez pas de contenu sensible dans ce formulaire.</p>
+            <p><input type="checkbox" required name="terms">J'accepte que mon message soit envoy&eacute; par le service formspree.io. Je confirme que ce message ne contient pas de donn&eacute;es sensibles.</p>
             </div>
             <!-- Form actions -->
             <div class="form-group">
@@ -93,3 +92,10 @@ Plusieurs parkings sont &agrave; proximit&eacute; du Cabinet.
       </div>
   </div>
 </div>
+
+	
+</div>
+
+
+
+
