@@ -1,6 +1,6 @@
 ---
 layout: tab
-title: "Cabinet"
+title: "Le Cabinet"
 date: 2014-06-25T13:57:25-04:00
 modified: 2016-05-01
 excerpt:
@@ -18,7 +18,7 @@ share: false
 
 Situ&eacute; en face du Palais de justice de Grasse, le Cabinet a pour activit&eacute; dominante le droit social incluant le **droit du travail** et le droit de la **s&eacute;curit&eacute; sociale**.
 
-Il intervient &eacute;galement en **droit de la famille** et en **droit civil g&eacuten&eacuteral**..
+Il intervient &eacute;galement en **droit de la famille** et en **droit civil g&eacute;n&eacute;ral**.
 
 Le Cabinet conseille, assiste ou repr&eacute;sente les **entreprises** et les **particuliers** devant les juridictions de **premi&egrave;re instance** et d&rsquo;**appel** sur tout le **territoire national**.
 

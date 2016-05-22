@@ -10,7 +10,7 @@ image:
   teaser:
 ---
 
-Le Cabinet vous **informe** de ses honoraires avant toute intervention, qu'il s'agisse :
+Le Cabinet vous informe de ses honoraires avant toute intervention, qu'il s'agisse :
 
 - d'une consultation ponctuelle, 
 - d'un abonnement conseil,
