@@ -24,7 +24,7 @@ Il intervient &eacute;galement en **droit de la famille** et en **droit civil g&
 
 Le Cabinet conseille, assiste ou repr&eacute;sente les **entreprises** et les **particuliers** devant les juridictions de **premi&egrave;re instance** et d&rsquo;**appel** sur tout le **territoire national**.
 
-Il intervient en particulier devant les Conseils de prud&rsquo;hommes de Grasse, de Cannes ou de Nice, le Tribunal de grande Instance de Grasse et la Cour d&rsquo;appel d&rsquo;Aix-en-Provence.
+Il intervient en particulier devant les Conseils de prud&rsquo;hommes de Grasse, de Cannes ou de Nice, le Tribunal de grande instance de Grasse et la Cour d&rsquo;appel d&rsquo;Aix-en-Provence.
 
 Apr&egrave;s de nombreuses ann&eacute;es de pratique du droit social au sein du barreau de Paris, dans des cabinets d&rsquo;affaires fran&ccedil;ais et anglo-saxons de premier plan, puis au sein d&rsquo;un groupe international du secteur de la restauration, Nathalie Brackmann a acquis une solide exp&eacute;rience du **conseil aux entreprises**.
 

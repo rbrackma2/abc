@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Mentions l&eacute;gales"
+title: ""
 modified: 2014-08-27T15:00:35-04:00
 excerpt: "Terms & conditions, privacy policy, license, and other legal stuff you won’t read."
 image:
@@ -11,14 +11,17 @@ share: false
 toc: true
 ---
 
+<br>
+<h1>Mentions l&eacute;gales</h1>
+
 **Responsable de la publication :**
 
 ```
 Nathalie Brackmann Avocat
-78 av. Pierre S&eacute;mard
+78 av. Pierre Sémard
 06130 Grasse
 France
-T&eacute;l. 00 33 7 63 50 14 88
+Tél. 00 33 7 63 50 14 88
 avocat@brackmann.fr
 Siren : 502 664 394
 ```
@@ -29,8 +32,7 @@ Siren : 502 664 394
 Github.com
 88 Colin P Kelly Junior Street
 San Francisco, CA 94107
-USA
-T&eacute;l. +14154486673. 
+USA 
 ```
 
 **Droits de propri&eacute;t&eacute; intellectuelle :**
