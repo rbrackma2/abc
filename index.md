@@ -25,7 +25,11 @@ image:
 			    T&eacute;l. : <a href="tel:+33763501488">07 63 50 14 88</a><br>
           E-mail : <a href="mailto:avocat@brackmann.fr">avocat@brackmann.fr</a>
     		</address>
+<<<<<<< HEAD
 		 <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d19420.28278082535!2d6.9248088131171315!3d43.65144910928736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x12cc28ad3c420e99%3A0xa85eedccf5fedc34!2snathalie+brackmann!3m2!1d43.656494599999995!2d6.929862!5e0!3m2!1sen!2sfr!4v1464713351188" width="300" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+=======
+		 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.5997742816257!2d6.927673315144!3d43.65649457912123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cc28ad3c420e99%3A0x51f3334f407990fd!2s78+Avenue+Pierre+Semard%2C+06130+Grasse!5e0!3m2!1sen!2sfr!4v1462133512410" width="300" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+>>>>>>> parent of 23eef2f... adding google maps pro
     	</div>
     
 </div><!-- /.tiles -->
