@@ -24,7 +24,8 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
 
-# Octopress configuration
+# Google services
+google_analytics: UA—XXXXXXXX-X
 
 # Default extensions
 post_ext: md
