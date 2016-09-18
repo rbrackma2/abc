@@ -86,12 +86,10 @@
 .top-menu {
 	display: none;
 	position: relative;
-	@include media($medium) {
-		@include span-columns(12);
-	}
 	@include media($large) {
 		@include span-columns(7);
 		ul {
+			position: absolute;
 		}
 	}
 	.home,
@@ -231,7 +229,7 @@
 	background-attachment: scroll;
 	text-align: center;
 	color: $white;
-	@include media($medium) {
+	@include media($large) {
 		background-size: 100%;
 	}
 }
