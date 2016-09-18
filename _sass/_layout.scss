@@ -85,7 +85,6 @@
 
 .top-menu {
 	display: none;
-	width: 100%;
 	position: relative;
 	@include media($medium) {
 		@include span-columns(12);
@@ -237,6 +236,7 @@
 	}
 }
 
+// page lead NBM adapted
 .page-lead {
 	background-position: center top;
 	background-repeat: no-repeat;
@@ -245,6 +245,7 @@
 	color: $white;
 	@include media($medium) {
 		background-size: 40%;
+		max-height: 250px;
 	}
 }
 .page-lead-content-home {
