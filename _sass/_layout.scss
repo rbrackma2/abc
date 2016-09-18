@@ -233,6 +233,7 @@
 	color: $white;
 	@include media($medium) {
 		background-size: 100%;
+		min-height: 250px;
 	}
 }
 
@@ -244,7 +245,7 @@
 	text-align: center;
 	color: $white;
 	@include media($medium) {
-		background-size: 40%;
+		background-size: 50%;
 		min-height: 250px;
 	}
 }
