@@ -245,6 +245,7 @@
 	color: $white;
 	@include media($medium) {
 		background-size: 40%;
+		min-height: 250px;
 	}
 }
 .page-lead-content-home {
