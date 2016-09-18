@@ -233,7 +233,7 @@
 	color: $white;
 	@include media($medium) {
 		background-size: 100%;
-		min-height: 250px;
+		min-height: 300px;
 	}
 }
 
@@ -246,7 +246,7 @@
 	color: $white;
 	@include media($medium) {
 		background-size: 50%;
-		min-height: 250px;
+		min-height: 300px;
 	}
 }
 .page-lead-content-home {
