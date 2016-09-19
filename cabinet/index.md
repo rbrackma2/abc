@@ -6,7 +6,8 @@ modified: 2016-05-01
 excerpt:
 tags: []
 image:
-  feature:
+  feature: brackmann-133x145.jpg
+  backgroundcolor: black
   teaser: 
   thumb:
 share: false

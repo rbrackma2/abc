@@ -7,6 +7,7 @@ excerpt:
 tags: []
 image:
   feature: brackmann-particuliers-1920x850.jpg
+  backgroundcolor: white
   teaser:
 ---
 

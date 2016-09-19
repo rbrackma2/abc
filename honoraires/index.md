@@ -7,6 +7,7 @@ excerpt:
 tags: []
 image:
   feature: honoraires-400x250.jpg
+  backgroundcolor: white
   teaser:
 ---
 

@@ -6,6 +6,7 @@ modified: 2016-05-01T14:56:44-04:00
 excerpt:
 image:
   feature: brackmann-contact-1920x850.jpg
+  backgroundcolor: white
   teaser: 
   thumb:
 share: false
