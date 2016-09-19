@@ -235,6 +235,7 @@
 	@include media($medium) {
 		background-size: 100%;
 		min-height: 250px;
+	    background-size: cover;
 	}
 }
 
