@@ -226,6 +226,7 @@
 }
 // page lead NBM scoll : 
 .page-lead-home {
+    background-size: cover;
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-attachment: scroll;
@@ -239,12 +240,14 @@
 
 // page lead NBM adapted
 .page-lead {
+    display: none;
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	text-align: center;
 	color: $white;
 	@include media($medium) {
+	    display: block;
 		background-size: 40%;
 		min-height: 240px;
 	}
