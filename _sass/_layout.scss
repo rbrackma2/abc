@@ -249,7 +249,7 @@
 	color: $white;
 	@include media($medium) {
 	    display: block;
-		background-size: 40%;
+		background-size: contain;
 		min-height: 240px;
 	}
 }
