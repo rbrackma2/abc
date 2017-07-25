@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: www.brackmann.fr
-description: "Avocat au barreau de Grasse"
+title: es.brackmann.fr
+description: "Abogado Grasse Bar"
 logo: nb-logo-400x250.jpg
 locale: fr_FR
-url: //www.brackmann.fr
+url: //es.brackmann.fr
 #url: //rbrackma.github.io/abc
 #url: //10.64.109.18:4000
 
